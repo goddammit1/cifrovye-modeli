@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks (примеры)
+*.ipynb
+.ipynb_checkpoints/
+
+# Материалы к защите и генераторы
+_build/
+*Защита*
+*разбор*
+*вопросы*
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
